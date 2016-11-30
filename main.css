@@ -1,0 +1,53 @@
+/* CSS part1    */
+/*  畫出一個圓球 */
+.title{
+    /* 文字對齊 (text-align)*/
+    text-align: center;
+     /* 字體大小   */
+    font-size: 12px;
+    /* 字型   */
+    font-family: arial;
+    /* 字體粗細    */
+    font-weight: 700;    
+}
+.rect{
+    /* 文字對齊 (text-align)*/
+    text-align: left;
+     /* 字體大小   */
+    font-size: 30px;
+    /* 字型   */
+    font-family: arial;
+    /* 字體粗細    */
+    font-weight: 900;    
+}
+
+.box{
+  width:60px;
+  height:60px; 
+  border-radius: 50%;    
+  text-align:center;
+  font-size: 30px;
+  background: gold;
+}
+.red{
+    color: red;
+}
+.bgred{
+    background: red;
+}
+.blue{
+    color: blue
+}
+.black{
+    color:black;
+}
+.white{
+    color:white;
+}
+inner{
+   background: navy;
+}
+
+
+
+
